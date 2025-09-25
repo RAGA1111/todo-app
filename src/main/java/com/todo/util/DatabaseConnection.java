@@ -19,7 +19,7 @@ public class DatabaseConnection {
             System.out.print("JDBC DRIVER IS MISSING ");
         }
     }
-    public Connection getDBConnection() throws SQLException {
+    public static Connection getDBConnection() throws SQLException {
         return DriverManager.getConnection(URL,USERNAME,PASSWORD);
     }
 }
