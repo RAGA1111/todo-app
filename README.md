@@ -118,7 +118,7 @@ Enter the option number to perform actions.
 
 ---
 
-## 📘 Example Code Snippet (Task Model)
+## Example Code Snippet (Task Model)
 
 ```java
 public class Task {
