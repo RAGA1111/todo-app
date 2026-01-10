@@ -154,7 +154,7 @@ mvn test
 
 * **Java 8+**
 * **Maven**
-* **JUnit (optional)**
+* **JUnit**
 
 ---
 
